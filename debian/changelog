@@ -1,0 +1,5 @@
+python-w3lib (1.0-1) unstable; urgency=low
+
+  * Initial release. (Closes: #659315)
+
+ -- Ignace Mouzannar <mouzannar@gmail.com>  Fri, 10 Feb 2012 07:12:01 +0400
